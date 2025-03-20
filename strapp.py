@@ -54,7 +54,7 @@ def displayPDF(file):
 st.set_page_config(layout="wide")
 
 def main():
-    st.title("Document Summarization App")
+    st.title("Document Summarization")
 
     uploaded_file = st.file_uploader("Upload your PDF file", type=['pdf'])
 
