@@ -9,3 +9,4 @@ tiktoken
 streamlit
 chromadb
 langchain-community
+os
